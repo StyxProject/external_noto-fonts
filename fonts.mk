@@ -201,10 +201,6 @@ PRODUCT_PACKAGES := \
     NotoSansWancho-Regular.otf \
     NotoSansWarangCiti-Regular.otf \
     NotoSansYi-Regular.ttf \
-    NotoSerif-Bold.ttf \
-    NotoSerif-BoldItalic.ttf \
-    NotoSerif-Italic.ttf \
-    NotoSerif-Regular.ttf \
     NotoSerifArmenian-Bold.otf \
     NotoSerifArmenian-Regular.otf \
     NotoSerifBengali-Bold.ttf \
