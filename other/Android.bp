@@ -13,26 +13,6 @@
 // limitations under the License.
 
 prebuilt_font {
-    name: "NotoSerif-Regular.ttf",
-    src: "NotoSerif-Regular.ttf",
-}
-
-prebuilt_font {
-    name: "NotoSerif-Bold.ttf",
-    src: "NotoSerif-Bold.ttf",
-}
-
-prebuilt_font {
-    name: "NotoSerif-Italic.ttf",
-    src: "NotoSerif-Italic.ttf",
-}
-
-prebuilt_font {
-    name: "NotoSerif-BoldItalic.ttf",
-    src: "NotoSerif-BoldItalic.ttf",
-}
-
-prebuilt_font {
     name: "NotoSansAdlam-VF.ttf",
     src: "NotoSansAdlam-VF.ttf",
 }
